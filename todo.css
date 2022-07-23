@@ -1,0 +1,55 @@
+
+.main{
+    width: 60%;
+
+    margin-left: 20%;
+    margin-top: 10%;
+    padding-top: 3%;
+    border: 2px solid rgb(146, 109, 233);
+    border-radius: 8px;
+    box-shadow: 4px 4px 4px 4px  rgb(3, 33, 34);
+    height: auto
+
+    ;
+
+}
+.btnn{
+   border-bottom:5px solid rgb(17, 29, 29)  ; 
+   color:  white; 
+   font-weight:bold ;
+   background-color: rgb(20, 24, 6);
+   font-family:Arial, Helvetica, sans-serif ;
+   float: right;
+   border-radius: 20px;
+   font-size: 10px;
+    
+}
+.edit{
+    border-bottom:5px solid rgb(12, 22, 41)  ; 
+   color:  white; 
+   font-weight:bold ;
+   background-color: rgb(91, 136, 221)  ;
+   font-family:Arial, Helvetica, sans-serif ;
+   float: right;
+   border-radius: 20px;
+   font-size: 10px;
+    
+}
+ul{
+  width: 100%;  
+}
+
+li{
+list-style: none;
+font-family:algerian ;
+font-size: 15px;
+color: black;
+border-bottom:  2px solid rgb(138, 107, 187);
+box-shadow: 4px 4px 4px 4px rgb(85, 68, 165) ;
+margin-top: 5%;
+
+
+}
+
+
+
